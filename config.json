@@ -1,0 +1,12 @@
+{
+  "schools": {
+    "School Name": {
+      "abbreviation": "SCHOOL_ABBR",
+      "type": "College/University"
+    }
+  },
+  "roles": {
+    "SCHOOL_ABBR": [ROLE_ID]
+  },
+  "notification_channel_id": null
+}
