@@ -29,7 +29,7 @@ This bot is designed for scalability and flexibility, providing a fully automate
 
 2. Install the required dependencies:
    ```bash
-    pip install -r requirements.txtot
+    pip install -r requirements.txt
 
 3. Create a `config.json` file based on the provided `config.example.json` and fill in the required details for your schools and roles.
 
